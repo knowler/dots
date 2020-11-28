@@ -3,6 +3,6 @@ authors = ["Nathan Knowler <nathan@knowler.me>"]
 edition = "2018"
 name = "dots"
 version = "0.1.0"
-
 [dependencies]
+skim = "0.9"
 structopt = "0.3"
